@@ -1,5 +1,9 @@
 ## Creating SageMaker Studio Domains using CloudFormation
 
+
+See this post https://aws.amazon.com/fr/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/
+
+
 Amazon SageMaker Studio (https://docs.aws.amazon.com/sagemaker/latest/dg/gs-studio.html) is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. AWS CloudFormation (https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html) gives you an easy way to model a collection of related AWS and third-party resources, provision them quickly and consistently, and manage them throughout their lifecycle, by treating infrastructure as code.
 
 In this blog post, we want to demonstrate how you can create a SageMaker Studio domain using CloudFormation.
